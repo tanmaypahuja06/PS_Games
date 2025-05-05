@@ -31,7 +31,7 @@ Welcome to **Probability Based Games** — a fun, interactive collection of clas
 
 > **No setup required** — Colab handles everything!
 
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/probability-based-games/blob/main/probability_games_colab.ipynb)
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Tn1sY53eKYBQM_QIp3NAexzPV0AmZfCf)
 
 ✅ Use **interactive widgets** to play the games directly in your browser!
 
@@ -86,5 +86,5 @@ This project is licensed under the **MIT License** — feel free to use and modi
 
 ## ⭐ Acknowledgements
 
-> Made with 💡, 🎲 and ☕ by \[Your Name]
+> Made with 💡, 🎲 and ☕ by \[Tanmay Pahuja]
 > If you enjoy the project, don’t forget to **star ⭐ the repository**!
