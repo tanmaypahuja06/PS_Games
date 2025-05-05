@@ -60,7 +60,7 @@ pslp_project.py
 
 <h3>▶️ Google Colab</h3>
 
-<img src="https://github.com/your-username/probability-based-games/raw/main/screenshots/colab_interface.png" alt="Colab Screenshot" width="600"/>
+<img src="https://raw.githubusercontent.com/tanmaypahuja06/PS_Games/refs/heads/main/img/src.png" alt="Colab Screenshot" width="600"/>
 
 
 ---
