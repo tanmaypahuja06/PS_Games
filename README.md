@@ -86,5 +86,5 @@ This project is licensed under the **MIT License** — feel free to use and modi
 
 ## ⭐ Acknowledgements
 
-> Made with 💡, 🎲 and ☕ by \Tanmay Pahuja
+> Made with 💡, 🎲 and ☕ by Tanmay Pahuja
 > If you enjoy the project, don’t forget to **star ⭐ the repository**!
