@@ -58,7 +58,10 @@ pslp_project.py
 
 ## 📸 Screenshots
 
-> *(Optional — You can add screenshots of the Colab interface and Tkinter GUI here)*
+<h3>▶️ Google Colab</h3>
+
+<img src="https://github.com/your-username/probability-based-games/raw/main/screenshots/colab_interface.png" alt="Colab Screenshot" width="600"/>
+
 
 ---
 
