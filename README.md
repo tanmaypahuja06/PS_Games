@@ -58,7 +58,11 @@ pslp_project.py
 
 ## 📸 Screenshots
 
-<h3><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab Logo" height="25"/></h3>
+<h3>
+  <a href="https://colab.research.google.com/drive/1Tn1sY53eKYBQM_QIp3NAexzPV0AmZfCf" target="_blank">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" height="25"/>
+  </a>
+</h3>
 
 <img src="https://raw.githubusercontent.com/tanmaypahuja06/PS_Games/refs/heads/main/img/src.png" alt="Colab Screenshot" width="800"/>
 
