@@ -45,11 +45,11 @@ Welcome to **Probability Based Games** — a fun, interactive collection of clas
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/probability-based-games.git
-cd probability-based-games
+git clone https://github.com/tanmaypahuja06/PS_Games.git
+cd PS_Games
 
 # Run the app
-python filename.py
+PS_Games.py
 ```
 
 ✅ A **Tkinter GUI** window will launch. Select a game and start playing!
