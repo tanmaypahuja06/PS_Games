@@ -1,90 +1,98 @@
-# 🎲 Probability Based Games
+Got it — here’s the **FULL and CLEAN `README.md`** (you can copy-paste it directly, no extra notes this time):
 
-Welcome to **Probability Based Games** — a fun, interactive collection of classic probability-based mini-games! Whether you're flipping a coin, drawing cards, or rolling dice, these games blend chance and intuition to keep you entertained — and maybe even sharpen your probabilistic thinking!
+````markdown
+# 🎲 Probability-Based Games
 
-> ✨ **Play seamlessly on both Google Colab and Desktop (VS Code / Python)** — no extra setup needed!
+Welcome to **Probability-Based Games** — a fun and interactive collection of mini-games that explore the world of probability!  
+You can play them either on your **local computer** (with a GUI interface) or directly in **Google Colab** — no setup hassle! 🚀
 
----
+## ✨ Features
 
-## 🕹️ Available Games
+- **🎉 Coin Toss Guessing Game**  
+  Guess Heads or Tails and test your luck against a virtual coin flip!
 
-| Game                           | Description                                                                                  |
-| ------------------------------ | -------------------------------------------------------------------------------------------- |
-| **🪙 Coin Toss Guessing Game** | Guess whether the coin lands on **Heads** or **Tails**. Simple but addictive!                |
-| **🃏 Card Rank Higher/Lower**  | Draw a card and predict whether the next card will be **higher** or **lower** in rank.       |
-| **🎲 Dice Roll Target Sum**    | Roll multiple dice and aim to match a **target sum** you specify. Will luck be on your side? |
+- **🃏 Card Rank Higher/Lower Game**  
+  Draw a card and predict if the next one will be higher or lower — how long can your streak last?
 
----
+- **🎲 Dice Roll Target Sum Game**  
+  Roll multiple dice and try to hit a target sum — probability and excitement combined!
 
-## 🚀 Features
+## 📊 Platforms Supported
 
-* 🖥️ **Cross-platform**: Works on **Google Colab** and **local machines** (VS Code, Terminal).
-* ✨ **Graphical Interface**: Clean GUI powered by **Tkinter** (Desktop) and **ipywidgets** (Colab).
-* 🔄 **Seamless Game Switching**: Switch between games instantly without restarting the app.
-* 🧩 **Self-contained**: No external dependencies (except `ipywidgets` for Colab, auto-installed!).
+| Platform | Interface Type | How to Run |
+|----------|----------------|------------|
+| 🖥️ Desktop (VS Code / Python) | Tkinter GUI | Run locally |
+| 🌐 Google Colab | ipywidgets | Play in browser (no installation!) |
 
----
+## 🚀 Quick Start
 
-## 💡 How to Run
+### 🖥️ Run Locally (Desktop - Tkinter)
 
-### 1️⃣ Run Locally (Desktop)
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/yourusername/repository-name.git
+   cd repository-name
+````
 
-> **Requirements**
->
-> * Python 3.x installed
+2. **Run the Python file**
 
-```bash
-# Clone the repository
-git clone https://github.com/your-username/probability-based-games.git
-cd probability-based-games
+   ```bash
+   python probability_games.py
+   ```
 
-# Run the app
-python filename.py
-```
+### 🌐 Run on Google Colab
 
-✅ A **Tkinter GUI** window will launch. Select a game and start playing!
+1. **Open the Colab notebook**
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/repository-name/blob/main/probability_games.py)
 
----
+2. **Run all cells**
+   Click **Runtime > Run all** and start playing!
 
-### 2️⃣ Run in Google Colab (Recommended for quick play)
+## 📦 Requirements
 
-> **No setup required** — Colab handles everything!
-
-* [🌐 Open the Colab notebook here](https://colab.research.google.com/github/your-username/probability-based-games/blob/main/filename.py)
-
-✅ Use **interactive widgets** to play the games directly in your browser!
-
----
-
-## 📸 Screenshots
-
-> *(Optional — You can add screenshots of the GUI and Colab interface here)*
-
----
-
-## 🛠️ Technologies Used
+For Local (Tkinter):
 
 * Python 3.x
-* **Tkinter** (Desktop GUI)
-* **ipywidgets** (Colab widgets)
-* Random library (for probability mechanics)
+* Tkinter (comes pre-installed with Python)
 
----
+For Google Colab:
 
-## 🙌 Contributing
+* Automatically installs `ipywidgets` (Colab handles it)
+
+## 🛠️ How It Works
+
+The program automatically detects where it is running:
+
+* **Colab** → ipywidgets interface
+* **VS Code / Desktop** → Tkinter GUI interface
+
+No manual configuration required!
+
+## 📷 Screenshots
+
+| Desktop (Tkinter)                              | Google Colab                               |
+| ---------------------------------------------- | ------------------------------------------ |
+| ![Tkinter Screenshot](screenshots/tkinter.png) | ![Colab Screenshot](screenshots/colab.png) |
+
+## 🤝 Contributing
 
 Contributions are welcome!
-Feel free to fork this repo and submit a **Pull Request** with new game ideas, improvements, or bug fixes.
+Feel free to fork the repo, submit pull requests, or suggest improvements.
 
----
+If you like the project — ⭐️ Star the repository to show support!
 
 ## 📄 License
 
-This project is licensed under the **MIT License** — feel free to use and modify it!
+This project is licensed under the MIT License. See `LICENSE` for details.
 
 ---
 
-## ⭐ Acknowledgements
+> Built with ❤️ by \[Your Name]
 
-> Made with 💡, 🎲 and ☕ by Tanmay Pahuja
-> If you enjoy the project, don’t forget to **star ⭐ the repository**!
+```
+
+---
+
+✅ **This is the final, production-grade README**.  
+Do you want me to **auto-generate the screenshot images** too? (I can make nice placeholders).
+```
