@@ -46,10 +46,10 @@ Welcome to **Probability Based Games** — a fun, interactive collection of clas
 ```bash
 # Clone the repository
 git clone https://github.com/tanmaypahuja06/PS_Games.git
-cd PS_Games
+cd pslp_project
 
 # Run the app
-PS_Games.py
+pslp_project.py
 ```
 
 ✅ A **Tkinter GUI** window will launch. Select a game and start playing!
